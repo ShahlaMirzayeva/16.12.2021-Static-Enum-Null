@@ -1,0 +1,14 @@
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\bin\Debug\netcoreapp3.1\StaticEnumSealed.exe
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\bin\Debug\netcoreapp3.1\StaticEnumSealed.deps.json
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\bin\Debug\netcoreapp3.1\StaticEnumSealed.runtimeconfig.json
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\bin\Debug\netcoreapp3.1\StaticEnumSealed.runtimeconfig.dev.json
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\bin\Debug\netcoreapp3.1\StaticEnumSealed.dll
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\bin\Debug\netcoreapp3.1\StaticEnumSealed.pdb
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\obj\Debug\netcoreapp3.1\StaticEnumSealed.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\obj\Debug\netcoreapp3.1\StaticEnumSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\obj\Debug\netcoreapp3.1\StaticEnumSealed.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\obj\Debug\netcoreapp3.1\StaticEnumSealed.AssemblyInfo.cs
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\obj\Debug\netcoreapp3.1\StaticEnumSealed.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\obj\Debug\netcoreapp3.1\StaticEnumSealed.dll
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\obj\Debug\netcoreapp3.1\StaticEnumSealed.pdb
+C:\Users\Code\Desktop\P224\StaticEnumNull\StaticEnumSealed\obj\Debug\netcoreapp3.1\StaticEnumSealed.genruntimeconfig.cache
